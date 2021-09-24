@@ -13,12 +13,12 @@ Recently, Apple has decided to approach this question from the perspective of th
 A total of 392 students were surveyed on their preferences for Windows and Mac operating systems. 78 questions were asked based on the Big Five personality traits as well as the Hult DNA. 
 
 <b> The Big 5 Personality Traits  </b>
-The five basic personality traits is a theory developed in 1949 by D. W. Fiske (1949) suggests that personality is grouped by Openess, Conscientiousness, Extraversion, Agreeableness and Neuroticism. 
+<p> Developed in 1949 by D. W. Fiske (1949), the five basic personality traits is a theory d suggests that personality is grouped by Openess, Conscientiousness, Extraversion, Agreeableness and Neuroticism. </p> 
 
 <b> Hult DNA  </b>
-The Hult DNA represents a set of aspirations of Hult students for their professional development. These ideals are grouped into: Thinking, Communicating and Team Building. 
+<p> The Hult DNA represents a set of aspirations of Hult students for their professional development. These ideals are grouped into: Thinking, Communicating and Team Building. </p> 
 
-Thinking: Shows Self Awareness, Embraces Change, Demonstrates Dynamic Thinking
-Communicating: Speaks and Listens Skillfully, Influences Confidently, Presents Ideas Effectively
-Team Building: Builds collaborative Relationships, Inspires and Motivates, Resolves Conflicts Constructively
+<p> Thinking: Shows Self Awareness, Embraces Change, Demonstrates Dynamic Thinking</p> 
+<p> Communicating: Speaks and Listens Skillfully, Influences Confidently, Presents Ideas Effectively</p> 
+<p> Team Building: Builds collaborative Relationships, Inspires and Motivates, Resolves Conflicts Constructively</p> 
 
