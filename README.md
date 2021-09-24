@@ -1,7 +1,7 @@
 # mac-vs-windows
 This repo contains a collaborative final team assignment for the Machine Learning course taught by Professor Chase Kusterer at Hult International Business School. The goal of this project is to analyze and interpret an unsupervised learning problem based on survey data.
 
-# Business Case: Windoes or Mac?
+# Business Case: Windows or Mac?
 
 Countless consumers have pondered this question when preparing to buy a new computer. As a result, Apple (AAPL) and Microsoft (MSFT) have been rigorously researching several aspects of consumer buying behavior in regards to the decision making behind this question. Both firms have commissioned research and analysis teams to study aspects such as system architecture, security, and overall performance.
  
