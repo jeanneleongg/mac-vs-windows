@@ -18,7 +18,7 @@ A total of 392 students were surveyed on their preferences for Windows and Mac o
 <b> Hult DNA  </b>
 <p> The Hult DNA represents a set of aspirations of Hult students for their professional development. These ideals are grouped into: Thinking, Communicating and Team Building. </p> 
 
-<p> Thinking: Shows Self Awareness, Embraces Change, Demonstrates Dynamic Thinking</p> 
-<p> Communicating: Speaks and Listens Skillfully, Influences Confidently, Presents Ideas Effectively</p> 
-<p> Team Building: Builds collaborative Relationships, Inspires and Motivates, Resolves Conflicts Constructively</p> 
+<p> Thinking: Shows Self Awareness, Embraces Change, Demonstrates Dynamic Thinking
+Communicating: Speaks and Listens Skillfully, Influences Confidently, Presents Ideas Effectively
+Team Building: Builds collaborative Relationships, Inspires and Motivates, Resolves Conflicts Constructively</p> 
 
